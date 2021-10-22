@@ -1,5 +1,5 @@
-- 👋 Oie para todes, sou a Tsad Martins
-- 👀 Me interesso por python e data science em geral
+- 👋 Oie para todes, sou a Tsad Martins, sou da tribo de Plataformas
+- 👀 Me interesso por dados e data science em geral
 - 🌱 Estou cursando ciencia de dados na FATEC
 
 <!---
